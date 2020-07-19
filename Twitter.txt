@@ -1,0 +1,7 @@
+Please save your tokens
+
+We only show your access token and secret once in order to make your account more secure. You can revoke or regenerate your access token and secret at any time.
+You should copy and save the values below since you won't be able to access them again here.
+
+Access token :1248951228349829126-Gzkc82DJPnJEwN1JUssTWqawmciwOR
+Access token secret :Kr2VoC3ePZxHK0Aaj3kTG2joQMdOVDniZnoOZzncChbes
